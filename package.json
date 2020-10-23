@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sibykarthikeyan/order-managemant.git"
+    "url": "git+https://github.com/Nambratharv/nodejs.git"
   },
   "keywords": [
     "order",
@@ -18,9 +18,9 @@
   "author": "Siby Karthikeyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sibykarthikeyan/order-managemant/issues"
+    "url": "https://github.com/Nambratharv/nodejs/issues"
   },
-  "homepage": "https://github.com/sibykarthikeyan/order-managemant#readme",
+  "homepage": "https://github.com/Nambratharv/nodejs#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.2.0",
     "amqplib": "^0.5.6",
