@@ -4,7 +4,7 @@ eks-application-chart:
       replicas: 0
       data: testing
       fallback:
-        failure: 9
+        failure: new_value
         failtes: test
       containers:
         - name: countries-test
