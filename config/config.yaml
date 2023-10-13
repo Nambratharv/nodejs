@@ -4,19 +4,19 @@ eks-application-chart:
       replicas: 0
       data: testing
       fallback:
-        failure: old_value
-        failtes: test
+        failure: "old_value"
+        failtes: "test"
       containers:
         - name: countries-test
           image:
             repository: docker-appimage
-          resources: data_test
+          resources: "data_test"
     - name: content-service
       replicas: 0
       data: testing
       fallback:
         failure: new_value
-        failtes: test
+        failtes: "test"
       containers:
         - name: countries-test
           image:
